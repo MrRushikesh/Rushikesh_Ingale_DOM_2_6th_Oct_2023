@@ -1,14 +1,14 @@
 # CryptoMarket Dashboard Documentation
 
-<h1>1. Project Overview -: </h1>
+<h2>1. Project Overview -: </h2>
 
 - The CryptoMarket Dashboard is a web application that fetches cryptocurrency market data from the CoinGecko API and displays it in a user-friendly table format on a webpage. This project demonstrates the use of promises and the async-await method in JavaScript to handle API requests and display data. It also includes styling based on a provided sample image from Figma.
 
-<h1>2. Project Description -:</h1> 
+<h2>2. Project Description -:</h2> 
 
 The CryptoMarket Dashboard is designed to fetch cryptocurrency market data from the CoinGecko API, store it in an array, and display it on a webpage in the form of a table. It employs JavaScript promises (using the .then method) and async-await methods for handling API requests. Additionally, the displayed data adheres to specific styling guidelines as per a provided sample image from Figma.
 
-<h1>3. Fetching Data from the API -: </h1>
+<h2>3. Fetching Data from the API -: </h2>
 
 - The project demonstrates two methods for fetching data from the API: using promises with the .then method and using async-await.
 
@@ -22,7 +22,7 @@ An async function is created to handle API requests.
 
 - The await keyword is used to wait for the API response.
 
-<h1>4. Data Storage -:</h1>
+<h2>4. Data Storage -:</h2>
 
 - The fetched data is stored in an array, with each object containing the following fields:
 
@@ -33,7 +33,7 @@ An async function is created to handle API requests.
         5. Current Price
         6. Total Volume
 
-<h1>5. Displaying Data -:</h1>
+<h2>5. Displaying Data -:</h2>
 
 - HTML Table
 An HTML table is created to display the cryptocurrency market data.
@@ -44,7 +44,7 @@ JavaScript is used to dynamically populate the table rows with data from the arr
 - Styling
 CSS styles are applied to the table to match the provided sample image from Figma.
 
-<h1>6. Additional Features -: </h1>
+<h2>6. Additional Features -: </h2>
 
 - Coin Icons and Names
 - Coin icons and names are displayed together in the table.

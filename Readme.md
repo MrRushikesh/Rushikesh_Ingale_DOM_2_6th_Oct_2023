@@ -53,6 +53,6 @@ CSS styles are applied to the table to match the provided sample image from Figm
 - Dollar Sign ($)
 - Dollar signs ($) are added to numerical values (current price and total volume) as shown in the sample image.
 
-</h1>7. Live Link -: </h1>
+<h2>7. Live Link -: </h2>
 
 <a href="https://mrrushikesh.github.io/Rushikesh_Ingale_DOM_2_6th_Oct_2023/" alt="Loading..">Click Here</a>
